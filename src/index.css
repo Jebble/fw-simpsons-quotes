@@ -1,8 +1,13 @@
 body {
-  font-family: Visuelt, Helvetica, sans-serif;
-  font-weight: 400;
-  margin: 0;
-  padding: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	font-family: Visuelt, Helvetica, sans-serif;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background: #F9F9F9;
+}
+
+*, *:before, *:after {
+	box-sizing: border-box;
 }
